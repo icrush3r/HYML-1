@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+
+        <h1>Header 1</h1>
+        <p>paragraph 1</p>
+
+        <h2>Header 2</h2>
+        <p>paragraph 2</p>
+
+        <h3>Header 3</h3>
+        <p>paragraph 3</p>
+
+        <ul>
+            <li>list item 1</li>
+            <li>list item 2</li>
+            <li>list item 3</li>
+        </ul>
+
+        <a href="https://uqu.edu.sa">UQU Website</a>
+        <p></p>
+        <button type="button">Button</button>
+    </body>
+</html>
